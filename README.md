@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Amrutanshu jena</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img href="" alt= "coding image">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTQ6yQZFatkUhhKGN3TR2DVT4oWRmDkzP1Q&usqp=CAU" alt= "coding image">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajamru" alt="ajamru" /></a> </p>
 
