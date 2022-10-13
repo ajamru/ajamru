@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajamru&show_icons=true&locale=en" alt="ajamru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajamru&" alt="ajamru" /></p>
-[![@amru's Holopin board](https://holopin.me/amru)](https://holopin.io/@amru)
